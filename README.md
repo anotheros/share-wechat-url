@@ -24,3 +24,6 @@
 接收（拿到别人共享内容）：slack bot （类似一个qq号）收到url，slack bot 将url地址发送给对应的业务地址。
 
 代码已经写完。正在内测。
+
+
+[代码](https://github.com/zhangshanhai/weixinbot)
